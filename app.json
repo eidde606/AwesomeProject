@@ -13,7 +13,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.yourcompany.awesomeproject"
@@ -32,6 +34,12 @@
         "projectId": "352f0c86-3e42-4519-83c3-6051cec330f6"
       }
     },
-    "owner": "eidde606"
+    "owner": "eidde606",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/352f0c86-3e42-4519-83c3-6051cec330f6"
+    }
   }
 }
